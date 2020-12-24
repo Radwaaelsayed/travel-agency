@@ -3,7 +3,7 @@ import '../App.css';
 import NavBar from './navbar';
 
 const Header = (props) =>{
- let hello = ["Travel to the most beautiful places in the world" , "Enjoy Your Trip With Us ..." , "Travel To Diffrent Places With Low Budget ..."]
+ let hello = ["Travel to beautiful places." , "Enjoy Your Trip..." , "Travel To Diffrent Places..."]
 
     return(   
         <div >
