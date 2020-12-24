@@ -25,7 +25,7 @@ const Header = (props) =>{
                 <div className="container">
                    <NavBar user={props.user}/>
                    <div className="d-flex flex-column justify-content-center align-items-center text-center mt-lg-5" >
-                       <div className="text-center mt-md-5 anim-typewriter line">
+                       <div className="text-center mt-md-5 mt-3 anim-typewriter line">
                            {
                            hello[Math.floor(Math.random()*hello.length) ]
                             }
