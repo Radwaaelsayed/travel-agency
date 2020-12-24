@@ -7,7 +7,7 @@ if(!props.user)
      return(
         <nav className="navbar navbar-expand-lg  navbar-light ">
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon position-fixed"></span>
+            <span className="navbar-toggler-icon position-relative " style={{zIndex:1}}></span>
         </button>
         <Link className="navbar-brand logo" to="/">TRAVEL</Link>
         <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
