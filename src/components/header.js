@@ -31,6 +31,8 @@ const Header = (props) =>{
                             }
                  
                         </div>
+                       <button className="rounded-pill btn mt-5 pt-2 pb-2 pl-4 pr-4 d-md-block d-none" style={{fontSize: "14px"}}> Contact us</button>
+
                    </div>
 
                 </div>    
