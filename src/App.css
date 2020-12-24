@@ -31,7 +31,6 @@
 .line {
   
   width: 16em;
-  margin: 0 auto;
   border-right: 4px solid rgba(255, 255, 255, 0.75);
   font-size: 2rem;
   white-space: nowrap;
