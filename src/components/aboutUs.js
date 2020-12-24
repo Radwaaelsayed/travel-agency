@@ -84,7 +84,7 @@ const About=()=>{
           </div>
         </div>
         <div className="col-lg-7">
-          <div className="row">
+          <div className="row mt-2">
             <div className="col-6">
             <img src="https://preview.colorlib.com/theme/travel2/images/img_1.jpg" alt="Imaget" className="img-fluid"/>
             </div>
@@ -175,15 +175,7 @@ const About=()=>{
           </div>
         </div>
       </div>
-      <div className="col-lg-2 mb-4">
-        <div className="team">
-          <img src="https://preview.colorlib.com/theme/travel2/images/person_2.jpg" alt="Imagec" className="img-fluid mb-4"/>
-          <div className="px-2">
-            <h3 className="mb-0 fw-bolder">Nada Mobark</h3>
-            <p>Co-Founder &amp; CEO</p>
-          </div>
-        </div>
-      </div>
+
 
       <div className="col-lg-2 mb-4">
         <div className="team">
@@ -212,15 +204,7 @@ const About=()=>{
           </div>
         </div>
       </div>
-      <div className="col-lg-2 mb-4">
-        <div className="team">
-          <img src='https://preview.colorlib.com/theme/travel2/images/person_3.jpg' alt="Imageg" className="img-fluid mb-4"/>
-          <div className="px-1">
-            <h3 className="mb-0 fw-bolder">Ahmed Fathy</h3>
-            <p>Co-Founder &amp; CEO</p>
-          </div>
-        </div>
-      </div>
+      
 
 
     </div>
