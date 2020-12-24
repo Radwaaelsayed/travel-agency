@@ -1,6 +1,6 @@
 /********************************************************Header  **************************************/
 .anim-typewriter {
-  animation: typewriter 10s steps(20) 1s infinite normal both,
+  animation: typewriter 10s steps(15) 1s infinite normal both,
   blinkTextCursor 500ms steps(5) infinite normal both;
 }
       
