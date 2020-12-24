@@ -13,7 +13,7 @@ const OfferModel = ({offers,loading}) =>{
     return(
        <React.Fragment>
         {offers.map((offer) => {  
-         return  <div className="col-6 col-sm-6 col-md-6 col-lg-3 mt-5 mb-5 p-2" key={offer.id}>
+         return  <div className="col-12 col-sm-6 col-md-6 col-lg-3 mt-5 mb-5 p-2" key={offer.id}>
                    <div className="card border-0" style={{width:"255px" , height:"291px"}}>
                     <img src={images[Math.floor(Math.random() * images.length +1)]} className="card-img-top offer-img p-1" alt="..."/>
                     <div className="card-body">
