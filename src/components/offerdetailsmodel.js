@@ -29,7 +29,7 @@ const handelAdd = async() =>{
         <div className="container">
            <ToastContainer hideProgressBar="0" />
             <div className="row">
-                <div className="col mt-5 mb-5">
+                <div className=" col-md-5 col-12 mt-5 mb-5">
                 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -44,7 +44,7 @@ const handelAdd = async() =>{
                 </div>
                 </div>
                 </div>
-                <div className="col mt-5 mb-5">
+                <div className="col-md-6 col-12 mt-5 mb-5">
                 <div className=" border-0">
                 <div className="card-body">
                     <h5 className="card-title h1">{offerDetails.offer_title.charAt(0).toUpperCase() + offerDetails.offer_title.slice(1)}</h5>                
