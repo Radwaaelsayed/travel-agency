@@ -1,0 +1,206 @@
+{
+    "offers" : [
+        {
+          "id":1,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Dahab",
+          "offer_city":"Dahab",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"1000",
+          "offer_description":"Begin your tour with pickup from your hotel in Sharm el-Sheikh. As you drive to Dahab City, admire the incredible landscape and amazing desert and mountains.Upon arrival at the canyon and Blue Hole, enjoy a Beduin Tea and have a moment to relax and take in your new surroundings.Meet your scuba diving instructor who will explain how to safely take your introduction dive before you start your underwater adventure. See the amazing underwater plants and life on this guided dive. Get a deeper look and snorkel for another hour with a different snorkeling guide. Go back to the beduin camp so you can take a shower and change your clothes before your desert experience. Drive a quad bike into the middle of the desert for 30 minutes then ride a camel for 15 minutes.Refuel back at camp again with lunch and time for some rest. Your driver will then take you to the Colored Canyon, where you'll have 30 minutes of free time to enjoy the amazing view of mountains and canyon in the middle of the desert. Afterwards, you'll be dropped off at your hotel in Sharm El-Sheikh.",
+          "offer_hotelname":"Jaz Dahabeya",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":2,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Sant kathren",
+          "offer_city":"Sant kathren",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"1000",
+          "offer_description":"Your stay in Luxor would not quite be the same without a bird’s eye view of the city from a hot air balloons. After convenient, pre-dawn pickup from your Luxor hotel or cruise ship, cross the River Nile to the West Bank – where your hot air balloon awaits. After a safety briefing and introduction to your ground crew and pilot, you will climb into the balloon's basket and get ready for lift off. Then it’s time for takeoff. Away from the daytime crowds, you will drift peacefully over the west Bank of Luxor and sights such as the monuments of Thebes. As the early morning sun rises over the East Bank, the city and the surrounding mountains will be illuminated in stunning golden hues. Your expert guide will also regale you with insights on history as you take in landmarks such as Queen Hatshepsut's Temple and Karnak, among other important structures.After landing, you will be transported back to your hotel, enriched with the beauty of Egypt from the most enchanting perspective.",
+          "offer_hotelname":"Sheikh Mousa Bedouin camp",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":3,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "use":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Hurghada",
+          "offer_city":"Hurghada",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"900" ,
+          "offer_description":"Fun and thrills await you at the largest water theme park on the Red Sea coast. Enjoy the water games, huge swimming pools, wave pools, rafting, and more with a full-day admission ticket. A tour company representative will pick you up at your hotel at the agreed time and drive you to Jungle Aqua Park, where you’re sure to enjoy the wide range of water sports and social activities with your family and friends. The full day ticket includes lunch.The Jungle Aqua Park features 35 water slides, 14 outdoor swimming pools, a heated pool, water lakes, poolside umbrellas, and sun beds. Hurghada’s largest water theme park is located just 25 minutes by car from the downtown area.At the end of your day of fun you’ll be transferred back to your hotel.",
+          "offer_hotelname":"Jaz Aquamarine Resort ",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":4,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Sharm Elsheikh",
+          "offer_city":"Sharm Elsheihk",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"1000",
+          "offer_description":"Be picked up from your hotel in Sharm-El-Sheikh and travel comfortably in an air-conditioned bus to Mount Moses. Upon arrival, enjoy a hike to reach the peak of Mount Sinai, which is the sacred location where God gave 10 commandments to Prophet Moses. Marvel at the beauty of the sun rising, painting the sky saffron across the majestic mountain. Climb down and enjoy your breakfast before moving on with the trip. Explore the UNESCO World Heritage Site of St. Catherine's Monastery where you can see old manuscripts and icons unearthed from the Vatican that are exhibited in the library.  Continue to Dahab mostly referred to as the 'The Flower Power City' of the Red Sea. Shop to your heart's content while enjoying the beauty of the city. Enjoy a city tour to see the city's best spots. Unwind and relax with lunch in the city. Finish your day of exploration with drop-off back at your hotel in Sharm El Sheikh.",
+          "offer_hotelname":"Sunrise Arabian Beach Resort ",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":5,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Taba",
+          "offer_city":"Taba",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"1800",
+          "offer_description":"Begin your tour with pickup from your hotel in Sharm el-Sheikh. As you drive to Dahab City, admire the incredible landscape and amazing desert and mountains.Upon arrival at the canyon and Blue Hole, enjoy a Beduin Tea and have a moment to relax and take in your new surroundings.Meet your scuba diving instructor who will explain how to safely take your introduction dive before you start your underwater adventure. See the amazing underwater plants and life on this guided dive. Get a deeper look and snorkel for another hour with a different snorkeling guide. Go back to the beduin camp so you can take a shower and change your clothes before your desert experience. Drive a quad bike into the middle of the desert for 30 minutes then ride a camel for 15 minutes.Refuel back at camp again with lunch and time for some rest. Your driver will then take you to the Colored Canyon, where you'll have 30 minutes of free time to enjoy the amazing view of mountains and canyon in the middle of the desert. Afterwards, you'll be dropped off at your hotel in Sharm El-Sheikh.",
+          "offer_hotelname":"Movenpick Taba Resort",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":6,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Luxor",
+          "offer_city":"Luxor",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"800",
+          "offer_description":"Your stay in Luxor would not quite be the same without a bird’s eye view of the city from a hot air balloons. After convenient, pre-dawn pickup from your Luxor hotel or cruise ship, cross the River Nile to the West Bank – where your hot air balloon awaits. After a safety briefing and introduction to your ground crew and pilot, you will climb into the balloon's basket and get ready for lift off. Then it’s time for takeoff. Away from the daytime crowds, you will drift peacefully over the west Bank of Luxor and sights such as the monuments of Thebes. As the early morning sun rises over the East Bank, the city and the surrounding mountains will be illuminated in stunning golden hues. Your expert guide will also regale you with insights on history as you take in landmarks such as Queen Hatshepsut's Temple and Karnak, among other important structures.After landing, you will be transported back to your hotel, enriched with the beauty of Egypt from the most enchanting perspective.",
+          "offer_hotelname":"Sofitel Winter Palace Luxor ",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":7,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Cairo",
+          "offer_city":"cairo",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost":"1000",
+          "offer_description":"Embark on a full-day tour to the Giza Pyramids, the Sphinx, Memphis and Sakkara.Start your tour by visiting the Great Pyramids - Cheops, Chephren and Mykerinos. The highlight of this section is getting close up to the Sphinx - the legendary guardian with a lion’s body and the head of King Chephren. Admire the impressive statue and get your photo taken beside it. You will then visit Sakkara, a 27 km journey away from Cairo. The highlight of this section is the Step Pyramid. Built for King Zoser, it is considered an important part in the process of the pyramid evolution. Finally, you'll head over to Memphis. Not the home of Elvis, of course, but the ancient capital of Egypt!",
+          "offer_hotelname":"Marriott Hotel",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":8,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Alexandria",
+          "offer_city":"Alexandria",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"1200" ,
+          "offer_description":"Experience Alexandria’s sunset hours lit up by the lights and activity of the city on this guided tour. At 7:00 PM,your tour guide will pick you up from your hotel in Alexandria in an air-conditioned vehicle and take you directly to downtown Alexandria. Start your evening with a romantic ride on a traditional horse carriage along the corniche, a gorgeous waterfront promenade dotted with restaurants, markets, and historic sights.Nearby, stop at the most famous ice cream shop in Alexandria for a taste of something sweet before heading to the San Stefano Grand Mall. Located in the heart of one of Alexandria’s most lavish neighborhoods, this mall is designed specifically to offer an extraordinary world of luxury living products and contains a large dining hall and theaters.   After exploring the mall, head back out to the corniche to enjoy the fresh evening air of the sea. Cross the famous Stanley Bridge, an architectural wonder and a perfect place to take in views of the Mediterranean Sea and the corniche. Finally, your guide will accompany you back to your hotel." ,
+          "offer_hotelname":"Tolip Hotel",
+          "offer_hotelrating":"4 stars" 
+        },
+        {
+          "id":9,
+          "offer_guestCurrentNo":0,
+          "offer_image":".././images/1.jpg",
+          "user_ID":["","",""],
+          "status":"Avilable",
+          "offer_title":"Trip To Alexandria",
+          "offer_city":"Alexandria",
+          "offer_dateFrom":"2020-12-12",
+          "offer_dateTo":"2020-12-15",
+          "offer_guestTotalNo":25,
+          "company_ID":"123",
+          "offer_cost" :"1000" ,
+          "offer_description":"Experience Alexandria’s sunset hours lit up by the lights and activity of the city on this guided tour. At 7:00 PM,your tour guide will pick you up from your hotel in Alexandria in an air-conditioned vehicle and take you directly to downtown Alexandria. Start your evening with a romantic ride on a traditional horse carriage along the corniche, a gorgeous waterfront promenade dotted with restaurants, markets, and historic sights.Nearby, stop at the most famous ice cream shop in Alexandria for a taste of something sweet before heading to the San Stefano Grand Mall. Located in the heart of one of Alexandria’s most lavish neighborhoods, this mall is designed specifically to offer an extraordinary world of luxury living products and contains a large dining hall and theaters.   After exploring the mall, head back out to the corniche to enjoy the fresh evening air of the sea. Cross the famous Stanley Bridge, an architectural wonder and a perfect place to take in views of the Mediterranean Sea and the corniche. Finally, your guide will accompany you back to your hotel." ,
+          "offer_hotelname":"Cecil Hotel",
+          "offer_hotelrating":"4 stars" 
+        }
+      ],
+      "posts" : [
+        {
+          "id":1,
+          "postContent":"alexandria is a booring city!!!",
+          "commentsId":[18 , 17 , 16],
+          "creatorUserId":5,
+          "city":"alexandria"
+
+        },
+        {
+          "id":2,
+          "postContent":"hurgada is a booring city!!!",
+          "commentsId":[7 , 6 , 11],
+          "creatorUserId":3,
+          "city":"hurgada"
+        },
+        {
+          "id":3,
+          "postContent":"hurgada is a booring city!!!hurgada is a booring city!!!hurgada is a booring city!!!",
+          "commentsId":[ 4, 13 , 15],
+          "creatorUserId":2,
+          "city":"hurgada"
+
+        },
+        {
+          "id":4,
+          "postContent":"dahab is a booring city!!!",
+          "commentsId":[1 , 5, 11],
+          "creatorUserId":1,
+          "city":"dahab"
+
+        },
+        {
+          "id":5,
+          "postContent":"sharm Elsheikh is a booring city!!!",
+          "commentsId":[2 , 3 , 10],
+          "creatorUserId":6,
+          "city":"sharm elsheikh"
+         
+        },
+       {
+          "id":6,
+          "postContent":"taba is a booring city!!!",
+          "commentsId":[20 , 23 , 21],
+          "creatorUserId":6,
+          "city":"sharm elsheikh"
+         
+        }  
+      ]    
+} 
